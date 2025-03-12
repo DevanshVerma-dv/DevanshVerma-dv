@@ -13,3 +13,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevanshVerma-dv&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Jstr/30-nites-of-code)  
+  ![@Jstr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Jstr)
